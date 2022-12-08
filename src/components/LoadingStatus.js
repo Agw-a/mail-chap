@@ -5,8 +5,11 @@ const LoadingStatus = () => {
     <div style={{justifyContent:'center',
     color:"grey",
     alignText:"center"
-}}>Loading users, please wait...</div>
+    alignItems:"center"
+}}>
+      <p>Loading users,it might take a while please wait...</p>
+      </div>
   )
 }
 
-export default LoadingStatus
+export default LoadingStatus;
