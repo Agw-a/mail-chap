@@ -7,7 +7,7 @@ const Error404 = () => {
     <div style={{justifyContent:"center"}} className="error-page">
       <img className="image" src="https://cdn-icons-png.flaticon.com/512/7438/7438599.png" alt="error-file"/>
       <h2>404</h2>
-      <h4>Page Not Found</h4>
+      <h4>We couldn't find the resource.Page Not Found</h4>
         <p>You seem to have wandered too far from your friends,</p>
 
         <p style={{textAlign:"center"}}> 
